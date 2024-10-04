@@ -15,9 +15,9 @@ body {
 
 /* Estilização do cabeçalho */
 header {
-    background: #343a40;
+    background: #343a4000;
     color: #ffffff;
-    padding: 10px 0;
+    padding: 20px 0;
     position: fixed;
     width: 100%;
     top: 0;
@@ -35,7 +35,7 @@ header {
 }
 
 .nav-section a {
-    color: #ffffff;
+    color: #131313;
     text-decoration: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -52,7 +52,7 @@ header {
     background: url('background.jpg') no-repeat center center/cover;
     color: #ffffff;
     text-align: center;
-    padding: 100px 20px;
+    padding: 200px 20px;
 }
 
 .hero h1 {
